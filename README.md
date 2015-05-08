@@ -20,3 +20,8 @@ Plans for May holiday.
 * Windows UIAutomation
 
 ## Container throttling 
+
+## Learn
+* Coq
+* Scala
+* Haskell
